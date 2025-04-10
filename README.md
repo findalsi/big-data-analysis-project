@@ -42,3 +42,22 @@ This project analyzes Amazon book review data using a Big Data pipeline combinin
 ├── environment.yml                   # Conda environment file
 └── README.md
 
+How to Run
+
+1. Activate the environment:
+conda activate pyspark_env
+
+2. Start MongoDB
+
+3. Run the notebook in VS Code:
+
+Project Highlights
+
+Spark transformations for genre/rating analysis
+
+Optimized MongoDB queries with indexing
+
+Visualizations using Seaborn & Matplotlib
+
+Performance comparison of MongoDB and Spark
+
